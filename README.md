@@ -4,7 +4,7 @@
 
 # Hi, I'm Joanna 👋
 
-Passionate software engineer with a particular focus on 
+Passionate software engineer with a particular focus on developing robust and scalable software solutions for real-world challenges. 
 <!-- Apple Platforms – iOS/macOS. You can find me creating videos on [iOS Academy](https://www.youtube.com/iOSAcademy), contributing to Open Source here on Github, and frequenting new coffee shops in NYC. -->
 
 
