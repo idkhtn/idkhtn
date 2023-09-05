@@ -13,9 +13,6 @@ Passionate software engineer with a particular focus on developing robust and sc
 
 <br/>
 
-
-
-
 - 🔭 Currently working on all things software development, including cloud administration and software security. <!-- Apple – iOS, macOS, watchOS, tvOS -->
 - 🌱 Learning anything I can get my hands on!
 - ⚡ Always looking to collaborate on exciting projects.
